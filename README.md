@@ -5,8 +5,8 @@ Hi, I’m Sayyad Ali, a passionate Frontend Developer specializing in React.js. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyad-ali-09a8632b0/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aliseyad611))  
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aliseyad611)
+[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/sayyadal.dev/)) 
 
 
 
