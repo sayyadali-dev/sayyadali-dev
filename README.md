@@ -1,7 +1,33 @@
 # 💫 Hi 👋, I'm Sayyad  Ali
 A passionate Frontend-Developer || React.js Developer 
 ## About Me
-Hi, I’m Sayyad Ali, a passionate Frontend Developer specializing in React.js. I love transforming creative ideas into responsive, user-friendly web applications. With a strong foundation in JavaScript, HTML, CSS, and modern frameworks, I focus on building scalable, high-performance interfaces that deliver exceptional user experiences.
+I’m a Frontend Developer focused on building fast, responsive, and user-friendly web interfaces using modern web technologies.
+
+I specialize in transforming UI/UX designs into clean, production-ready frontend applications with strong attention to performance, responsiveness, and user experience.
+My core focus is React.js, where I build component-driven interfaces with reusable architecture, efficient state handling, and scalable UI structures.
+
+What I build
+
+Modern frontend applications using React.js, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS
+Responsive, mobile-first web interfaces
+Reusable and component-based UI architecture in React
+API integration using REST APIs
+Pixel-perfect conversion of Figma / UI designs into code
+Performance-optimized and fast-loading web interfaces
+
+What I focus on
+
+Clean and maintainable React code structure
+Scalable component design
+Mobile-first responsive UI development
+Smooth user experience and UI consistency
+Performance optimization and Core Web Vitals improvements  
+
+I enjoy building interfaces where design and engineering meet. My goal is to continuously improve as a frontend developer by working on real-world React projects that challenge my skills and push me toward production-level development standards.
+
+I’m currently open to Frontend Developer internship opportunities where I can contribute to real projects and grow as a React developer in a professional environment.
+
+📩 Email: sayyadali.dev@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyad-ali-09a8632b0/) 
